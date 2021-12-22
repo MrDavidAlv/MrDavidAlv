@@ -1,20 +1,19 @@
 body {
-    background-color: rgb(204, 213, 218);
+    background-color: rgb(125, 130, 130);
     display: flex;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
-.cv {
-    
+.cv { 
     background-color: white;
-    width: 57em;
-  height: 80em; 
+    width: 38em;
+  height: 52em; 
 }
 
 .data {
     background-color: rgb(51, 83, 132);
     width: 34%;
-    height: 80em;
+    height: 52em;
     float: left; 
 }
 
@@ -24,11 +23,11 @@ body {
 }
 .photo {
     display: flex;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
 }
 img{
-    width: 75%;
+    width: 55%;
     border-radius: 150px;  
 }
 .name {
@@ -37,8 +36,8 @@ img{
    justify-content: center; 
     font-weight: 700; 
     color: rgb(255, 255, 255);  
-    font-size: 31.6635px;
-    line-height: 1.5em;
+    font-size: 22px;
+    line-height: 0.9em;
     letter-spacing: 0.04em; 
     text-transform: uppercase;   
 }
@@ -48,9 +47,9 @@ img{
    justify-content: center; 
     font-weight: 700; 
     color: rgb(255, 255, 255);  
-    font-size: 16px;
-    line-height: 3.5em;
-    letter-spacing: 0.04em; 
+    font-size: 12px;
+    line-height: 2.8em;
+    letter-spacing: 0.035em; 
     text-transform: uppercase;
 }
 #line {
@@ -65,9 +64,9 @@ img{
     width: 80%; 
 }
 .skills { 
-    margin-top: 1.5em;
-    margin-left: 1.5em;
-    height: 25em; 
+    margin-top: 2.2em;
+    margin-left: 0.8em;
+    height: 18em;
 }
 .title-data {
     color: rgb(197, 197, 197); 
@@ -75,20 +74,22 @@ img{
     font-style: normal; 
     text-decoration: none;
     font-family: "YACgEQzTv38 0", _fb_, auto;
-    font-size: 15px; 
-    line-height: 1.42em;
+    font-size: 11px; 
+    line-height: 1.5em;
     letter-spacing: 0.25em; 
     text-transform: uppercase; 
 }
 .skill {
-    line-height: 3em;
+    line-height: 2em;
     color: rgb(255, 255, 255); 
     font-style: normal;  
+    font-size: 12px;
 }
 h4 { 
      display: inline-block;
-     margin: 0 -4px;
-     letter-spacing: 0.25em;
+     margin: 5px -4px;
+     letter-spacing: 0.1em;
+     font-size: 12px;
 }
 #point-white {
     color: white;
@@ -97,38 +98,52 @@ h4 {
     color: rgb(98, 153, 255);
 }
 .contact { 
-    margin-top: 1.3em;
-    margin-left: 1.5em; 
+    margin-top: 1.5em;
+    margin-left: 0.8em; 
+    font-style: normal; 
+    height: 18em;
 }
 .fab  {
-    font-size: 21px;  
+    font-size: 17px;  
+    background-color: rgb(255, 17, 0);
 }
 .fas  {
-    font-size: 21px;  
+    font-size: 17px;
+    background-color: rgb(255, 0, 0); 
+} 
+svg{
+    fill: rgb(255, 255, 255);
+    width: 15px; 
 }
 .info {
-    line-height: 3em;
+    display: flex;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    line-height: 2.1em;
+    margin: 5px -4px;
     color: rgb(255, 255, 255); 
     font-style: normal;   
-    letter-spacing: 0.01em;
+    font-size: 12px;
+    letter-spacing: 0.007em;
 }
 
-
+/*------------------Descripcion de la hoja de vida-----------------------*/
 
 .description {
-    margin-top: 1em;
-    margin-left: 21em; 
+    margin-top: 0.5em;
+    margin-left: 36%; 
 }
 
 .title-description{
-    margin-top: 1em;
+    margin-top: 0.9em;
     color: rgb(91, 167, 209);
     font-weight: 700;
     font-style: normal; 
     text-decoration: none;
     font-family: "YACgEQzTv38 0", _fb_, auto;
-    font-size: 15px; 
-    line-height: 1.5em;
+    font-size: 11px; 
+    line-height: 1.6em;
     letter-spacing: 0.25em; 
     text-transform: uppercase;  
 }
@@ -143,9 +158,9 @@ h4 {
     color: rgb(68, 68, 64);
     text-decoration: none;
     font-family: "YACkoJDbMvg 0", _fb_, auto;
-    font-size: 16.5px; 
+    font-size: 12px; 
     line-height: 1.5em;
-    letter-spacing: 0.05em; 
+    letter-spacing: 0.02em; 
     text-transform: none;
     --head-indent: 0;
     --numeric-list-marker: none;
@@ -157,15 +172,15 @@ h4 {
     font-style: normal;
     color: rgb(68, 68, 64);
     text-decoration: none; 
-    font-size: 15.25px; 
-    line-height: 1.5em;
+    font-size: 11px; 
+    line-height: 1.3em;
     letter-spacing: 0.05em;
     --para-spacing: 0;
     text-transform: uppercase;
     --head-indent: 0;
     --numeric-list-marker: none;
     list-style-type: none;
-    margin-top: 1em;
+    margin-top: 0.4em;
 }
 
 .school {
@@ -175,11 +190,207 @@ h4 {
     text-decoration: none;
     font-family: "YACkoBU8dvk 0", _fb_, auto;
     font-size: 15.6px; 
-    line-height: 1.4em;
+    line-height: 1em;
     letter-spacing: 0.05em;
     --para-spacing: 0;
     text-transform: none;
     --head-indent: 0;
     --numeric-list-marker: none;
     list-style-type: none;
+}
+
+
+
+
+
+/*//////////////////////////////////////////////////////////////////////////////
+------------------------Responsivo----------------------------------------------
+///////////////////////////////////////////////////////////////////////////////*/
+@media only screen and (max-width: 500px) {
+    body{
+        margin: 0px;
+        padding: 0px;
+    }
+    .cv { 
+        background-color: rgb(255, 255, 255);
+        width: 100%; 
+        height: 100%; 
+        top: 0px;
+    }
+    .data { 
+        width: 36%;  
+    } 
+
+    .profile{   
+        margin-top: 2.3em;
+    } 
+    img{
+        width: 60%;
+        border-radius: 150px;  
+    }
+
+    .name {  
+        font-size: 15.5px;
+        line-height: 1em;
+        letter-spacing: 0.04em;   
+    }
+    .career {   
+        font-size: 9px;
+        line-height: 2.8em;
+        letter-spacing: 0.035em;  
+    }
+    #line {
+        margin-top: -5px; 
+    }
+    #line div{ 
+        height: 0.1em;
+        width: 80%; 
+    }
+    .skills { 
+        margin-top: 3em;
+        margin-left: 0.5em; 
+        font-size: 10px; 
+    }
+    .title-data { 
+        font-size: 10px; 
+        line-height: 1.2em;
+        letter-spacing: 0.25em;  
+    }
+    .skill {
+        line-height: 1.6em; 
+        font-size: 8.5px;
+    }
+    h4 {  
+         letter-spacing: 0.04em;
+         font-size: 13px;
+    } 
+    .contact { 
+        margin-top: 4em;
+        margin-left: 0.5em; 
+        font-size: 10px;  
+    }
+    .fab  {
+        font-size: 15px;   
+    }
+    .fas  {
+        font-size: 15px; 
+    }
+    svg{
+        fill: rgb(255, 255, 255);
+        width: 11px; 
+    }
+    .info {
+        line-height: 1.8em;   
+        font-size: 8px;
+        letter-spacing: 0.006em;
+    }
+
+
+    /*------------------Descripcion de la hoja de vida-----------------------*/
+
+.description {
+    margin-top: 0.em;
+    margin-left: 38%; 
+}
+
+.title-description{
+    margin-top: 1.3em; 
+    font-size: 10px; 
+    line-height: 1em;
+    letter-spacing: 0.25em;   
+}
+.text-center {
+    text-align: center;
+}
+.text {
+    width: 93%; 
+    font-size: 9px; 
+    line-height: 1.5em;
+    letter-spacing: 0.02em;  
+
+}
+.studies-info { 
+    font-size: 9px; 
+    line-height: 1.2em;
+    letter-spacing: 0.05em; 
+    margin-top: 0.5em;
+}
+
+.school {
+    font-weight: 400; 
+    font-size: 9px; 
+    line-height: 0.9em;
+    letter-spacing: 0.05em; 
+}
+}
+
+
+@media only screen and (max-width: 320px) {
+    .data { 
+        width: 35%;  
+    }
+    .profile{   
+        margin-top: 1.6em;
+    } 
+    .name { 
+        color: rgb(255, 255, 255);  
+        font-size: 15px;
+        line-height: 1em;
+        letter-spacing: 0.04em;    
+    }
+    .career {  
+        font-size: 7.5px;
+        line-height: 2.8em;
+        letter-spacing: 0.035em; 
+        
+    }
+    .skills {
+        margin-top: 2em;
+    }
+    .skill {
+        line-height: 1.6em; 
+        font-size: 7.5px;
+    }
+    .contact{
+        margin-top: 2.3em;
+    }
+    svg{
+        fill: rgb(255, 255, 255);
+        width: 11px; 
+    }
+    .info {
+        line-height: 1.6em;  
+        font-size: 6.4px;
+        letter-spacing: 0.007em;
+    }
+    .description {
+        margin-top: 0.5em;
+        margin-left: 37%; 
+    }
+    
+    .title-description{
+        margin-top: 1.4em; 
+        font-size: 8px; 
+        line-height: 1em;
+        letter-spacing: 0.25em;   
+    }
+    .text {
+        width: 94%; 
+        font-size: 8px; 
+        line-height: 1.3em;
+        letter-spacing: 0.02em;  
+    
+    }
+    .studies-info { 
+        font-size: 7px; 
+        line-height: 1.2em; 
+        margin-top: 0.6em;
+    }
+    
+    .school {
+        font-weight: 400; 
+        font-size: 9px; 
+        line-height: 1em;
+        letter-spacing: 0.05em; 
+    } 
 }
