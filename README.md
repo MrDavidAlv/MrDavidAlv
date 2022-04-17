@@ -18,3 +18,14 @@ passionate about topics related to 	autonomous driving cars:oncoming_automobile:
 
 My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/ "Linkedin profile"), :globe_with_meridians:[Facebook](https://www.facebook.com/mrdavidalv "Facebook profile"), 🐦[Twitter](https://www.twitter.com/mrdavidalv "Twitter profile") and 📷[Instagram](https://www.instagram.com/mrdavidalv "Instagram account")
 
+
+### Stack development 
+
+Web tools
+
+![image](https://user-images.githubusercontent.com/44630882/163710732-0fc57108-2e5d-4f95-8bec-32bb49191428.png)
+
+
+Robotics development tools
+
+![image](https://user-images.githubusercontent.com/44630882/163710814-e83c41d2-2f55-4bf3-9f03-2179dd767e20.png)
