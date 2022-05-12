@@ -4,9 +4,16 @@
 
 I'm **Mario Alvarez** :wave: (***[@MrDavidAlv](https://mrdavidalv.github.io/MrDavidAlv/ "CV Mario David Alvarez")***) 
 
-FullStack Developer and Robotics Developer
+FullStack Developer and Robotics Developer 
 
 🤖 Autonomous robot creator
+
+<a href="https://github.com/MrDavidAlv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDavidAlv&layout=compact&langs_count=8&theme=radical" />
+</a>
+<a href="https://github.com/MrDavidAlv">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrDavidAlv&line_height=24&show_icons=true&theme=radical&layout=compact" alt="My github stats" />  
+</a>  
 
 *  currently i like to learn javascript, python and go :dart:🖥️ 
 
@@ -29,3 +36,4 @@ Web tools
 Robotics development tools
 
 ![image](https://user-images.githubusercontent.com/44630882/163710814-e83c41d2-2f55-4bf3-9f03-2179dd767e20.png)
+
