@@ -16,16 +16,16 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 
 🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
-- 💝 Author of multiple open source projects (~50 to date).
-- 💼 Community Manager, [thirdweb](https://github.com/thirdweb-dev), Web3 SDK for Developers, No Code Tools for NFT Artists.
-- 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
-- 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
-- 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/wareneutron), popular pinoy open-source dev team.
-- 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
+- 💝 Author of multiple open source projects.
+- 💼 Community Manager, [thirdweb](https://github.com/mrdavidalv), Web3 SDK for Developers, No Code Tools for NFT Artists.
+- 💼 Founder and CEO, [WG Co.](https://github.com/mrdavidalv), a start-up MSP for start-ups and MSMEs.
+- 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/mrdavidalv), a tech start-up.
+- 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/mrdavidalv), popular pinoy open-source dev team.
+- 💞 Executive Director, [Algo Filipino](https://github.com/mrdavidalv), non-profit organization for language and technology.
 - 🔏 Bug bounty hunter in free time.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
+- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mrdavidalv)!
 - 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more about me](https://bio.link/warengonzaga).
+- 💡 [Learn more about me](https://bio.link/mrdavidalv).
 
 
 
@@ -53,10 +53,7 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
   </a> &nbsp;&nbsp;
   
   
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
-</div>
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
@@ -294,3 +291,9 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 [twitter]: https://twitter.com/mrdavidalv
 [instagram]: https://instagram.com/mrdavidalv
 [youtube]: https://youtube.com/mrdavidalv
+	
+	
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2022 Mario David Alvarez Vallejo
+</div>
