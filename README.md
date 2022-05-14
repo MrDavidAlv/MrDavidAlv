@@ -81,8 +81,8 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavdalv#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=algolia&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavdalv#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=algolia&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=algolia&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=algolia&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdavidalv&theme=default"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdavidalv&theme=tokyonight"/></a></td>
@@ -132,10 +132,10 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
   <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="600" height="300"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv)](https://github.com/mrdavidalv/github-readme-stats)
 
 
 ### console.log("Hello world developer! :hugs::muscle:🤓:seedling:")
