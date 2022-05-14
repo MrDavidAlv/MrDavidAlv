@@ -111,7 +111,7 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)]( https://discord.gg/AQWKMJGs5P)
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://discord.gg/gUg9Zmwt) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)]( https://discord.gg/AQWKMJGs5P)
 
 
 <br>
