@@ -9,8 +9,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark"/>
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark"/> 
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
@@ -51,8 +50,8 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavdalv#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdavidalv&theme=default"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdavidalv&theme=tokyonight"/></a></td>
