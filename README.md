@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
 
-FullStack+Developer+and+Robotics+Developer;Autonomous+robot+creator
 
 Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
 
@@ -14,7 +13,7 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Mario ALvarez Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
+🎙 [Recent Tech Talks](https://work.mrdavidalv.com/mrdavidalv/collections/1284) • 📦 [Open Source Updates](https://work.mrdavidalv.com/mrdavidalv/collections/1194)
 
 - 💝 Author of multiple open source projects.
 - 💼 Community Manager, [thirdweb](https://github.com/mrdavidalv), Web3 SDK for Developers, No Code Tools for NFT Artists.
