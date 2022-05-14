@@ -36,8 +36,8 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
 </div>
-<span>
-<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&width=30%" alt="My GitHub Stats"/></span>
+
+<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&width=30%" alt="My GitHub Stats"/>
 
 
   
@@ -46,10 +46,7 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   
-  
-
-
-
+ 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
 
 ## 🛠️ Tech Stack:
@@ -132,28 +129,17 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 
 <br>
   
+<!--
 ### Stack development 
-
 Web tools
-
 ![image](https://user-images.githubusercontent.com/44630882/163710732-0fc57108-2e5d-4f95-8bec-32bb49191428.png)
-
-
 Robotics development tools
-
 ![image](https://user-images.githubusercontent.com/44630882/163710814-e83c41d2-2f55-4bf3-9f03-2179dd767e20.png)
-  
+  -->
+	
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-
-  
-
-## 🎧 Spotify Playing
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-
 
 
 
@@ -162,7 +148,7 @@ Robotics development tools
 
 [![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
 
-and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
+and **you**... [buy me a coffee](https://bmc.xyz/mrdavidalv) if you love what I do!
 
 ---
 
