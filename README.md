@@ -300,11 +300,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 </details>
 
-<!-- markdownlint-enable MD033 -->
 
-![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
-
----
 
 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
 
