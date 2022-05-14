@@ -8,7 +8,7 @@
 
 FullStack+Developer+and+Robotics+Developer;Autonomous+robot+creator
 
-Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
+Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Mario ALvarez Dev Card"/></a>
