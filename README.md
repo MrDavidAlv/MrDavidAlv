@@ -11,7 +11,7 @@ FullStack+Developer+and+Robotics+Developer;Autonomous+robot+creator
 Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Mario ALvarez Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
 🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
@@ -32,21 +32,16 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
  
  
  <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-langs"/><img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-stats"/>
 </div>
-
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
 </div>
+<span>
+<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&width=30%" alt="My GitHub Stats"/></span>
 
-<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only">
-	
-<img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
-	
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
+  
 
  <a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
@@ -276,14 +271,14 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.mrdavidalv.com/api?username=medavidalv&show_icons=true&count_private=true)](https://github.com/mrdavidalv/github-readme-stats) [![Top Language](https://readme-stats.mrdavidalv.com/api/top-langs?username=mrdavidalv&layout=compact)](https://github.com/mrdavidalv/github-readme-stats)
+[![Mario Alvarez Github Stats](https://readme-stats.mrdavidalv.com/api?username=medavidalv&show_icons=true&count_private=true)](https://github.com/mrdavidalv/github-readme-stats) [![Top Language](https://readme-stats.mrdavidalv.com/api/top-langs?username=mrdavidalv&layout=compact)](https://github.com/mrdavidalv/github-readme-stats)
 
 </details>
 
 
 
-💻💖☕ by [Waren Gonzaga](https://mrdavidalv.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
-
+💻💖☕ by [Mario Alvarez](https://mrdavidalv.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+                      
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
 [biolink]: https://bio.link/warengonzaga
