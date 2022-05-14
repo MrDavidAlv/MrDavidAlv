@@ -218,7 +218,7 @@ Robotics development tools
 Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warengonzaga/warengonzaga/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
 🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
