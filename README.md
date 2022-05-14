@@ -26,6 +26,16 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 - 🎯 Wasting my time to save other people's time.
 - 💡 [Learn more about me](https://bio.link/mrdavidalv).
 
+### console.log("Hello world developer! :hugs::muscle:🤓:seedling:")
+
+FullStack Developer and Robotics Developer  
+🤖 Autonomous robot creator 
+*  currently i like to learn javascript, python and go :dart:🖥️ 
+* 	:space_invader:I like JS frameworks (React⚛ , Vue, Next) 👨‍💻
+* I have knowledge in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer: 
+passionate about topics related to 	autonomous driving cars:oncoming_automobile:, space exploration:rocket:, robotics	:mechanical_arm: , astronomy:telescope:, artificial intelligence:space_invader:, :bulb:engineering:gear: and :microscope:science in general:dna:
+
+My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/ "Linkedin profile"), :globe_with_meridians:[Facebook](https://www.facebook.com/mrdavidalv "Facebook profile"), 🐦[Twitter](https://www.twitter.com/mrdavidalv "Twitter profile") and 📷[Instagram](https://www.instagram.com/mrdavidalv "Instagram account")
 
 
  
@@ -33,21 +43,19 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
  <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-langs"/><img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-stats"/>
 </div>
+
+
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&width=30%" alt="My GitHub Stats"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&width=30%" alt="My GitHub Stats"/>
-
-
-  
+<br>
 
  <a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-  
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
@@ -103,28 +111,7 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord)
-
-
-### console.log("Hello world developer! :hugs::muscle:🤓:seedling:")
-
-I'm **Mario Alvarez** :wave: (***[@MrDavidAlv](https://mrdavidalv.github.io/MrDavidAlv/ "CV Mario David Alvarez")***) 
-
-FullStack Developer and Robotics Developer 
-
-🤖 Autonomous robot creator
-
-
-*  currently i like to learn javascript, python and go :dart:🖥️ 
-
-* 	:space_invader:I like JS frameworks (React⚛ , Vue, Next) 👨‍💻
-
-* I have knowledge in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer: 
-
-passionate about topics related to 	autonomous driving cars:oncoming_automobile:, space exploration:rocket:, robotics	:mechanical_arm: , astronomy:telescope:, artificial intelligence:space_invader:, :bulb:engineering:gear: and :microscope:science in general:dna:
-
-My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/ "Linkedin profile"), :globe_with_meridians:[Facebook](https://www.facebook.com/mrdavidalv "Facebook profile"), 🐦[Twitter](https://www.twitter.com/mrdavidalv "Twitter profile") and 📷[Instagram](https://www.instagram.com/mrdavidalv "Instagram account")
-
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)]( https://discord.gg/AQWKMJGs5P)
 
 
 <br>
