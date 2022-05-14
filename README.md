@@ -81,28 +81,7 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 
 
 
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=algolia&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavdalv#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=mrdavidalv&show_icons=true&theme=algolia&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&theme=algolia&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdavidalv&theme=algolia"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdavidalv&theme=algolia"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/mrdavidalv#gh-light-mode-only"><img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>  
-	<tr>
-        <td colspan="2" align="center"><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/> </td>
-    </tr>  
-</table>
 
-</br>
-<p align="center">
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12181824518&cover_image=false&theme=default" />
-</p>
-
-</br>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrdavidalv)
 
@@ -293,20 +272,20 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrdavidalv)
 
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+[![Waren Gonzaga Github Stats](https://readme-stats.mrdavidalv.com/api?username=medavidalv&show_icons=true&count_private=true)](https://github.com/mrdavidalv/github-readme-stats) [![Top Language](https://readme-stats.mrdavidalv.com/api/top-langs?username=mrdavidalv&layout=compact)](https://github.com/mrdavidalv/github-readme-stats)
 
 </details>
 
 
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+💻💖☕ by [Waren Gonzaga](https://mrdavidalv.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
 
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
