@@ -306,7 +306,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
 [biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga
+[facebook]: https://facebook.com/mrdavidalv
+[twitter]: https://twitter.com/mrdavidalv
+[instagram]: https://instagram.com/mrdavidalv
+[youtube]: https://youtube.com/mrdavidalv
