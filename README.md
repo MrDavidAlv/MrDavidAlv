@@ -15,23 +15,18 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 
 🎙 [Recent Tech Talks](https://work.mrdavidalv.com/mrdavidalv/collections/1284) • 📦 [Open Source Updates](https://work.mrdavidalv.com/mrdavidalv/collections/1194)
 
-- 💝 Author of multiple open source projects.
-- 💼 Community Manager, [thirdweb](https://github.com/mrdavidalv), Web3 SDK for Developers, No Code Tools for NFT Artists.
-- 💼 Founder and CEO, [WG Co.](https://github.com/mrdavidalv), a start-up MSP for start-ups and MSMEs.
-- 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/mrdavidalv), a tech start-up.
-- 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/mrdavidalv), popular pinoy open-source dev team.
-- 💞 Executive Director, [Algo Filipino](https://github.com/mrdavidalv), non-profit organization for language and technology.
-- 🔏 Bug bounty hunter in free time.
+- 💝 Web application developer
+- 💼 Creator of multiple mobile robots
+- 💼 Developer and creator of electronic circuits
+- 👨‍🔬 Entucuasta and promoter of community work
+- 🖥️ Founder of the Axioma community work team
+- 💞 Member of the Latam Robots community
+- 🔏 currently i like to learn javascript, python and go
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mrdavidalv)!
-- 🎯 Wasting my time to save other people's time.
+- 🎯 I like JS frameworks (React⚛ , Vue, Next)
 - 💡 [Learn more about me](https://bio.link/mrdavidalv).
 
-### console.log("Hello world developer! :hugs::muscle:🤓:seedling:")
-
-FullStack Developer and Robotics Developer  
-🤖 Autonomous robot creator 
-*  currently i like to learn javascript, python and go :dart:🖥️ 
-* 	:space_invader:I like JS frameworks (React⚛ , Vue, Next) 👨‍💻
+:hugs::muscle:🤓:seedling:
 * I have knowledge in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer: 
 passionate about topics related to 	autonomous driving cars:oncoming_automobile:, space exploration:rocket:, robotics	:mechanical_arm: , astronomy:telescope:, artificial intelligence:space_invader:, :bulb:engineering:gear: and :microscope:science in general:dna:
 
