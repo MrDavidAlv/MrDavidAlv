@@ -1,7 +1,8 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile!" alt="Title"></img></div>
 
 
-# Hi, I'm Mario Alvarez (💻💖☕)
+# Hi, I'm Mario Alvarez (💻💖☕) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdavidalv)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
@@ -46,30 +47,7 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 </div>
 
 <br>
-
- <a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
- 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
-
-<!--
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp; 
--->
+  
 
 ## 🛠️ Tech Stack:
 
@@ -135,15 +113,12 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 
 
 
-
-
-<br>
-  
+## 🎵 programmer music
 	
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 	
-  [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31wqt66bedq2q3cw26k5eyezkkam)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31wqt66bedq2q3cw26k5eyezkkam)
 	
 </div>
 
@@ -160,7 +135,9 @@ and **you**... [buy me a coffee](https://bmc.xyz/mrdavidalv) if you love what I 
 	
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrdavidalv&width="5"&height="5")
 	
-<br><br>
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+<br><br> 
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>  
   &copy; 2022 Mario David Alvarez Vallejo
 </div>
+<br>
+<a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv" target="_blank"><img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
