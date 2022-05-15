@@ -1,8 +1,7 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile!" alt="Title"></img></div>
 
 
-# Hi, I'm Mario Alvarez (💻💖☕) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdavidalv)
+# Hi, I'm Mario Alvarez (💻💖☕)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdavidalv)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
