@@ -115,7 +115,9 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 	
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+	
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31wqt66bedq2q3cw26k5eyezkkam)
+	
 </div>
 
 
