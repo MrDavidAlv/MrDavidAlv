@@ -42,7 +42,9 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
-<img src="https://raw.githubusercontent.com/mrdavidalv/mrdavidalv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mrdavidalv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only&width=30%" alt="My GitHub Stats"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/44630882/173249286-02d3dd8e-f6da-482b-831e-b138352ecab2.svg#gh-ligth-mode-only&theme=algolia&background=0d1117&hide_border=true" alt="My GitHub Stats"/>	
 </div>
 
 <br>
@@ -55,7 +57,7 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend)](https://git.io/typing-svg)<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
@@ -78,14 +80,14 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Basic)](https://git.io/typing-svg)<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/-->&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/-->
+<!--img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
@@ -95,6 +97,7 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 <br>
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Robotics)](https://git.io/typing-svg)<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="arduino" alt="arduino" width="80" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="arduino" alt="arduino" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>	
@@ -106,19 +109,13 @@ My social networks :briefcase:[Linkedin](https://www.linkedin.com/in/mrdavidalv/
 </div>
 
 
-<!--
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light) 
--->
-
 
 
 ## 🎵 programmer music
 	
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-	
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31wqt66bedq2q3cw26k5eyezkkam)
-	
 </div>
 
 
