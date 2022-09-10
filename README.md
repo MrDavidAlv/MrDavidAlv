@@ -19,7 +19,6 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 - 💼 Creator of multiple mobile robots
 - 💼 Developer and creator of electronic circuits
 - 👨‍🔬 Entucuasta and promoter of community work
-- 🖥️ Founder of the Axioma community work team
 - 💞 Member of the Latam Robots community
 - 🔏 currently i like to learn javascript, python and go
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mrdavidalv)!
