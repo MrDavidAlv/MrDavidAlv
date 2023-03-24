@@ -2,23 +2,18 @@
    mrdavidalv
 
 Mario David Alvarez Vallejo (mrdavidalv)
-=================================
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile!" alt="Title"></img></div>
+=========================================
+.. figure:: https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile! 
+  :alt: Title
 
 
-# Hi, I'm Mario Alvarez (💻💖☕)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdavidalv)
+# Hi, I'm Mario Alvarez (💻💖☕) .. figure:: https://visitor-badge.laobi.icu/badge?page_id=mrdavidalv
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
 
 
 Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
-
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mrdavidalv"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Mario David ALvarez Vallejo"/></a>
-<!-- markdownlint-enable MD033 -->
-
-🎙 [Recent Tech Talks](https://work.mrdavidalv.com/mrdavidalv/collections/1284) • 📦 [Open Source Updates](https://work.mrdavidalv.com/mrdavidalv/collections/1194)
 
 - 💝 Web application developer
 - 💼 Creator of multiple mobile robots
