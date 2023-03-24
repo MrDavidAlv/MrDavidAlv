@@ -10,7 +10,7 @@
 Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mrdavidalv"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right"  alt="Mario David Alvarez Vallejo"/></a>
+<a href="https://app.daily.dev/mrdavidalv"><img src="https://github.com/mrdavidalv/mrdavidalv/blob/main/devcard.svg" width="250" align="right" alt="Mario David ALvarez Vallejo"/></a>
 <!-- markdownlint-enable MD033 -->
 
 🎙 [Recent Tech Talks](https://work.mrdavidalv.com/mrdavidalv/collections/1284) • 📦 [Open Source Updates](https://work.mrdavidalv.com/mrdavidalv/collections/1194)
