@@ -30,8 +30,8 @@ passionate about topics related to 	autonomous driving cars🏎, space explorati
 
 My social networks `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `Facebook <https://www.facebook.com/mrdavidalv>`__, 🐦 `Twitter <https://www.twitter.com/mrdavidalv>`__ and 📷 `Instagram <https://www.instagram.com/mrdavidalv>`__
 
-Developer
-----------
+💻💖☕ Developer
+------------------
 .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
   :height: 200
   :align: center
