@@ -14,6 +14,7 @@ Hi, I'm Mario Alvarez (💻💖☕)
 
 Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
 
+
 - 💝 Web application developer
 - 💼 Creator of multiple mobile robots
 - 💼 Developer and creator of electronic circuits
@@ -28,10 +29,11 @@ Industrial automation engineer, fullstack developer, robotics enthusiast and ope
 I have knowledge in web development👨‍💻, 3d modeling🧿, robotics🤖, electronics⚡ and systems💻 
 passionate about topics related to 	autonomous driving cars🏎, space exploration🚀, robotics🦾, astronomy🔭, artificial intelligence👾, 💡engineering⚙️ and 🔬science in general🧬
 
-My social networks `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `Facebook <https://www.facebook.com/mrdavidalv>`__, 🐦 `Twitter <https://www.twitter.com/mrdavidalv>`__ and 📷 `Instagram <https://www.instagram.com/mrdavidalv>`__
+My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `Facebook <https://www.facebook.com/mrdavidalv>`__, 🐦 `Twitter <https://www.twitter.com/mrdavidalv>`__ and 📷 `Instagram <https://www.instagram.com/mrdavidalv>`__
 
 💻💖☕ Developer
 ------------------
+
 .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
   :height: 200
   :align: center
@@ -42,6 +44,29 @@ My social networks `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `
   :height: 200
   :align: center
 
+
+👾 Projects
+------------
+
+Axioma robot
+_____________
+.. figure::  https://raw.githubusercontent.com/MrDavidAlv/Axioma_robot/main/image/axioma.jpeg
+  :align: center
+  :height: 300
+
+Axioma is a set of technologies, from the development of software and hardware that uses free tools, to build an autonomous robotic platform, which: making use of the data captured by artificial vision, understood as image pre-processing -by neural networks -, that achieves the training and subsequent learning of the device.
+
+Tools:
+  * ros2
+  * python
+  * Arduino
+  * raspberry pi
+  * lidar
+  * camera
+  * metal, wires, motors, tires
+  * and lots of coffee
+
+documents and code `here <https://github.com/MrDavidAlv/Axioma_robot>`__
 
 
 🎵 programmer music
