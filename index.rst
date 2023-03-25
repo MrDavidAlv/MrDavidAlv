@@ -1,6 +1,6 @@
 .. figure:: https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile! 
   :alt: welcome to my profile
-
+  :align: center 
 
 Hi, I'm Mario Alvarez (💻💖☕) 
 
@@ -30,6 +30,8 @@ passionate about topics related to 	autonomous driving cars🏎, space explorati
 
 My social networks `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `Facebook <https://www.facebook.com/mrdavidalv>`__, 🐦 `Twitter <https://www.twitter.com/mrdavidalv>`__ and 📷 `Instagram <https://www.instagram.com/mrdavidalv>`__
 
+Developer
+----------
 .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
   :height: 200
   :align: center
@@ -42,7 +44,7 @@ My social networks `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `
 
 
 
-🎵 programmer music  
+🎵 programmer music
 --------------------
 
 .. figure:: https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
