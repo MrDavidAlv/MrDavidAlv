@@ -2,6 +2,12 @@
   :alt: welcome to my profile
   :align: center 
 
+
+.. cover:: ./DavidAlvarez.png
+   :alt: Descripción de la imagen
+
+
+
 Hi, I'm Mario Alvarez (💻💖☕) 
 
 .. figure:: ./DavidAlvarez.png
