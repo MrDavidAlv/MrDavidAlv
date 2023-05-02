@@ -52,15 +52,34 @@ passionate about topics related to 	autonomous driving cars:oncoming_automobile:
 <div>
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend)](https://git.io/typing-svg)<br>
+<a href="www.w3.org/Style/CSS/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+</a>	
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+</a>	
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/-->
+
+<a href="https://jsdoc.app/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+</a>	
+	
+<a href="https://nodejs.org/es" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+</a>
+	
+<a href="https://react.dev/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;&nbsp;&nbsp; 
+</a>
+<a href="https://www.npmjs.com/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>
+</a>
 <br>
+	
+	
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Backend)](https://git.io/typing-svg)<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="django" alt="django" width="40" height="40"/>
