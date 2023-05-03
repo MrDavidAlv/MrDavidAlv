@@ -52,15 +52,16 @@ passionate about topics related to 	autonomous driving cars:oncoming_automobile:
 <div>
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend)](https://git.io/typing-svg)<br>
-<a href="www.w3.org/Style/CSS/" target="_blank">
+	
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
 </a>	
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+<a href="https://www.w3.org/html/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </a>	
 <!--img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/-->
-
-<a href="https://jsdoc.app/" target="_blank">
+	
+<a href="https://www.javascript.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </a>	
 	
@@ -80,42 +81,89 @@ passionate about topics related to 	autonomous driving cars:oncoming_automobile:
 <br>
 	
 	
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Backend)](https://git.io/typing-svg)<br>
+	
+<a href="https://www.python.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="django" alt="django" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
+</a>
+<a href="https://golang.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+</a>&nbsp;
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
+</a>&nbsp;
 <br>
 
+	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=DataBase)](https://git.io/typing-svg)<br>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
+</a>&nbsp;
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Basic)](https://git.io/typing-svg)<br>
-<!--img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/-->
-<!--img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/-->
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Basic)](https://git.io/typing-svg)<br>	
+<a href="https://www.docker.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-<!--img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/-->&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://ubuntu.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://about.gitlab.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+</a>
 <br>
 	
+	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Robotics)](https://git.io/typing-svg)<br>
+	
+<a href="http://www.ros.org/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ros" alt="ros" width="80" height="40"/>
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="arduino" alt="arduino" width="40" height="40"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>
+</a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
+</a>
+<a href="https://opencv.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>
+</a>
+<a href="https://www.blender.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>
+</a>
 	
 </div>
 
