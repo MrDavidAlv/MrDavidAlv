@@ -1,5 +1,10 @@
 body {
+<<<<<<< HEAD
+/*     background-color: rgb(125, 130, 130); */
+    background-color: black;
+=======
     background-color: rgb(125, 130, 130);
+>>>>>>> 9b99f35dc6327457d90b65bd47e6194591e9b16a
     display: flex;
     align-items: center;
     justify-content: center;
