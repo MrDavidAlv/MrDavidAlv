@@ -44,10 +44,10 @@ My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedi
     :align: center
 
   .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
-    :width: 150 
+    :width: 50% 
 
   .. figure::  https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
-    :width: 150 
+    :width: 50% 
 
   |
 
