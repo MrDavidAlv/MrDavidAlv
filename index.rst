@@ -39,12 +39,12 @@ My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedi
 
 💻💖☕ Developer
 ------------------ 
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" style="width: 200px;">
-  <img src="https://api.daily.dev/devcards/5a94b097814e4d6499823ad6d1ecf835.png?r=ioq" style="width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" style="width: 150px;">
-</div>
+.. html::
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" style="width: 200px;">
+    <img src="https://api.daily.dev/devcards/5a94b097814e4d6499823ad6d1ecf835.png?r=ioq" style="width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" style="width: 150px;">
+  </div>
 
 
 .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
