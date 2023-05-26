@@ -44,6 +44,8 @@ My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedi
   :width: 35% 
   :align: center
 
+## My status
+
 .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
   :height: 120  
   :align: right
