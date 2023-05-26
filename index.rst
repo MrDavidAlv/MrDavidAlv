@@ -40,11 +40,11 @@ My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedi
 💻💖☕ Developer
 ------------------ 
   .. figure:: https://api.daily.dev/devcards/5a94b097814e4d6499823ad6d1ecf835.png?r=ioq
-    :height: 500
+    :height: 350
     :align: left
 
   .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
-    :height: 150
+    :height: 200
     :align: right
 
   .. figure::  https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
