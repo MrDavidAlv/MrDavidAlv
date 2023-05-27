@@ -64,6 +64,10 @@ My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedi
 
 Axioma robot
 _____________
+
+.. youtube:: https://www.youtube.com/watch?v=dHnnpMOO5yg
+   :height: 300
+
 .. figure::  https://raw.githubusercontent.com/MrDavidAlv/Axioma_robot/main/image/axioma.jpeg
   :align: center
   :height: 300
