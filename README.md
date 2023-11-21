@@ -189,7 +189,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/mrdavidalv) if you love what I 
 	
 <div align="center">
 	
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrdavidalv&width="5"&height="5")
+<!-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrdavidalv&width="5"&height="5") -->
 	
 <br><br> 
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>  
