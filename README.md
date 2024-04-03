@@ -27,28 +27,11 @@
 :hugs::muscle:🤓:seedling:
  I have expertise in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer:. 
 I'm passionate about topics such as autonomous driving :oncoming_automobile:, space exploration:rocket:, robotics	:mechanical_arm: , astronomy:telescope:, artificial intelligence:space_invader:, :bulb:engineering:gear: and :microscope:science in general:dna:
-
-
  
- 
- <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-langs"/><img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-stats"/>
-</div>
-
-
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/44630882/173249286-02d3dd8e-f6da-482b-831e-b138352ecab2.svg#gh-ligth-mode-only&theme=algolia&background=0d1117&hide_border=true" alt="My GitHub Stats"/>	
-</div>
-
-<br>
-  
 
 ## 🛠️ Tech Stack:
 
-<div>
+<div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend)](https://git.io/typing-svg)<br>
 	
@@ -172,27 +155,29 @@ I'm passionate about topics such as autonomous driving :oncoming_automobile:, sp
 ## 🎵 programmer music
 	
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-	
-	
+	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!--
-## 🍀 Sponsors and Supporters
+--- 
 
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/mrdavidalv)
-
-and **you**... [buy me a coffee](https://bmc.xyz/mrdavidalv) if you love what I do!
--->
----
-	
 <div align="center">
-	
-<!-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrdavidalv&width="5"&height="5") -->
-	
-<br><br> 
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>  
-  &copy; 2022 Mario David Alvarez Vallejo
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-langs"/><img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true" alt="mrdavidalv-stats"/>
+</div>
+
+
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mrdavidalv&theme=algolia&background=0d1117&hide_border=true" /><img src="https://activity-graph.herokuapp.com/graph?username=mrdavidalv&theme=react-dark&hide_border=true"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/44630882/173249286-02d3dd8e-f6da-482b-831e-b138352ecab2.svg#gh-ligth-mode-only&theme=algolia&background=0d1117&hide_border=true" alt="My GitHub Stats"/>	
 </div>
 <br>
+
+	
+<div align="center">	
+	<br><br> 
+  		:heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>  
+  		&copy; 2022 Mario David Alvarez Vallejo
+	</div>
+	<br>
 <a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv" target="_blank"><img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
