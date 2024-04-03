@@ -7,27 +7,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
 
 
-Industrial automation engineer, fullstack developer, robotics enthusiast and open source promoter, mobile robotics and autonomous robots researcher and technopreneur from the Colombia 💻💖☕
+👨‍💻 An industrial automation engineer turned fullstack developer, I'm passionate about robotics, particularly working with ROS (Robot Operating System). Hailing from Colombia, I'm deeply involved in the tech community, often participating in hackathons and IT events, either as a collaborator or an attendee.
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/mrdavidalv"><img src="https://api.daily.dev/devcards/5a94b097814e4d6499823ad6d1ecf835.png?r=duu" width="250" align="right"  alt="Mario David Alvarez Vallejo"/></a>
 <!-- markdownlint-enable MD033 -->
 
-🎙 [Recent Tech Talks](https://work.mrdavidalv.com/mrdavidalv/collections/1284) • 📦 [Open Source Updates](https://work.mrdavidalv.com/mrdavidalv/collections/1194)
-
 - 💝 Web application developer
 - 💼 Creator of multiple mobile robots
 - 💼 Developer and creator of electronic circuits
-- 👨‍🔬 Entucuasta and promoter of community work
-- 💞 Member of the Latam Robots community
-- 🔏 currently i like to learn javascript, python and go
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mrdavidalv)!
-- 🎯 I like JS frameworks (React⚛ , Vue, Next)
+- 👨‍🔬 Enthusiast and promoter of community work
+- 💞 Member of the [`Semillero Robotica`](https://github.com/TadeoRoboticsGroup)
+
+- 🔏 Currently, I'm focused on learning JavaScript, Python, and C#.
+- ☕ Coffee lover, turning it into code; [you can buy me a coffee](https://buymeacoff.ee/mrdavidalv)!
+- 🎯 I'm particularly fond of JS frameworks like React⚛️, Vue, and Next.
 - 💡 [Learn more about me](https://bio.link/mrdavidalv).
 
 :hugs::muscle:🤓:seedling:
-I have knowledge in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer: 
-passionate about topics related to 	autonomous driving cars:oncoming_automobile:, space exploration:rocket:, robotics	:mechanical_arm: , astronomy:telescope:, artificial intelligence:space_invader:, :bulb:engineering:gear: and :microscope:science in general:dna:
+ I have expertise in web development👨‍💻, 3d modeling:nazar_amulet:, robotics:robot:, electronics:electric_plug: and systems:computer:. 
+I'm passionate about topics such as autonomous driving :oncoming_automobile:, space exploration:rocket:, robotics	:mechanical_arm: , astronomy:telescope:, artificial intelligence:space_invader:, :bulb:engineering:gear: and :microscope:science in general:dna:
 
 
  
