@@ -7,14 +7,12 @@ body {
 }
 .cv { 
     background-color: white;
-    width: 38em;
-  height: 52em; 
+    width: 38em; 
 }
 
 .data {
     background-color: rgb(51, 83, 132);
-    width: 34%;
-    height: 52em;
+    width: 34%; 
     float: left; 
 }
 

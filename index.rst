@@ -38,16 +38,24 @@ passionate about topics related to 	autonomous driving cars🏎, space explorati
 My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedin <https://www.linkedin.com/in/mrdavidalv>`__, 🌐 `Facebook <https://www.facebook.com/mrdavidalv>`__, 🐦 `Twitter <https://www.twitter.com/mrdavidalv>`__ and 📷 `Instagram <https://www.instagram.com/mrdavidalv>`__
 
 💻💖☕ Developer
-------------------
+------------------ 
+
+.. figure:: https://api.daily.dev/devcards/5a94b097814e4d6499823ad6d1ecf835.png?r=ioq
+  :width: 35% 
+  :align: center
+
+## My status
 
 .. figure::  https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
-  :height: 200
+  :height: 70  
   :align: center
+
 .. figure::  https://github-readme-stats.vercel.app/api/?username=mrdavidalv&layout=compact&show_icon=true&theme=algolia&hide_border=true
-  :height: 200
+  :height: 70
   :align: center
+
 .. figure::  https://user-images.githubusercontent.com/44630882/173249286-02d3dd8e-f6da-482b-831e-b138352ecab2.svg#gh-ligth-mode-only&theme=algolia&background=0d1117&hide_border=true
-  :height: 200
+  :width: 100%
   :align: center
 
 
@@ -56,6 +64,10 @@ My social networks ☕ `github <https://github.com/MrDavidAlv>`__, 💼 `Linkedi
 
 Axioma robot
 _____________
+
+.. youtube:: https://www.youtube.com/watch?v=dHnnpMOO5yg
+   :height: 300
+
 .. figure::  https://raw.githubusercontent.com/MrDavidAlv/Axioma_robot/main/image/axioma.jpeg
   :align: center
   :height: 300
@@ -93,7 +105,8 @@ documents and code `here <https://github.com/MrDavidAlv/Axioma_robot>`__
   and **you**... `buy me coffee <https://bmc.xyz/mrdavidalv>`__ if you love what I do!
 	
 .. figure:: https://camo.githubusercontent.com/ae7fa19af398148214678af687add062f479b1130e467634b21ac855719c29b6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d726461766964616c762677696474683d25323235253232266865696768743d25323235253232
-  :height: 100
+  :height: 200
+  :width: 80%
   :align: center
 
   😍 Thanks for watching my profile! Have a nice day! 😉
