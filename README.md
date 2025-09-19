@@ -1,5 +1,3 @@
-# README.md
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile!" alt="Title">
 </div>
@@ -38,7 +36,7 @@
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
@@ -93,7 +91,7 @@
 
 <div align="center">
 
-### ⚙️ **AXIOMA Core 328**
+### **[⚙️ AXIOMA Core 328](https://github.com/TadeoRoboticsGroup/AxiomaCore-328)** 
 *Microcontrolador Customizado para Robótica Educativa*
 
 > **Descripción:** Microcontrolador customizado basado en ATmega328, potenciado para robótica educativa y automatización.
@@ -102,7 +100,7 @@
 
 ---
 
-### 🚗 **Axioma_robot + ROS2**
+### **[🚗 Axioma_robot + ROS2](https://github.com/TadeoRoboticsGroup/Axioma_robot)** 
 *Plataforma de Robótica Móvil Autónoma*
 
 > **Descripción:** Proyecto con ROS2 Foxy para la creación de una plataforma de robótica móvil autónoma.
@@ -111,7 +109,7 @@
 
 ---
 
-### 🕹️ **tadeo-eCar-ws**
+### **[🕹️ tadeo-eCar-ws](https://github.com/TadeoRoboticsGroup/tadeo-eCar-ws)** 
 *Robot Logístico Universitario Autónomo*
 
 > **Descripción:** Plataforma robótica autónoma para logística universitaria en interiores. Robot eléctrico omnidireccional 4WD 4WS con capacidades de navegación autónoma, SLAM, visión computacional y planificación de trayectorias usando ROS2 Humble. Diseñado para transporte de materiales en la Universidad Jorge Tadeo Lozano.
