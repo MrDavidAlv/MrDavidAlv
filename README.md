@@ -100,7 +100,7 @@
 
 ---
 
-### **[🚗 Axioma_robot + ROS2](https://github.com/TadeoRoboticsGroup/Axioma_robot)** 
+### **[🚗 Axioma_robot + ROS2](https://github.com/MrDavidAlv/Axioma_robot)** 
 *Plataforma de Robótica Móvil Autónoma*
 
 > **Descripción:** Proyecto con ROS2 Foxy para la creación de una plataforma de robótica móvil autónoma.
@@ -109,7 +109,7 @@
 
 ---
 
-### **[🕹️ tadeo-eCar-ws](https://github.com/TadeoRoboticsGroup/tadeo-eCar-ws)** 
+### **[🕹️ tadeo-eCar-ws](https://github.com/MrDavidAlv/Robot4WD4WS)** 
 *Robot Logístico Universitario Autónomo*
 
 > **Descripción:** Plataforma robótica autónoma para logística universitaria en interiores. Robot eléctrico omnidireccional 4WD 4WS con capacidades de navegación autónoma, SLAM, visión computacional y planificación de trayectorias usando ROS2 Humble. Diseñado para transporte de materiales en la Universidad Jorge Tadeo Lozano.
