@@ -105,7 +105,7 @@
 
 > **Descripción:** Proyecto con ROS2 Foxy para la creación de una plataforma de robótica móvil autónoma.
 > 
-> **Tecnologías:** ROS2 Foxy, Python, C++, SLAM, Navigation
+> **Tecnologías:** ROS2, Python, C++, SLAM, Navigation
 
 ---
 
