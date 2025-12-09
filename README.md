@@ -118,11 +118,14 @@
 
 ---
 
-### **[🌱 EcoBalance360](https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono)
+### **[🌱 EcoBalance360](https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono)**
+*Mapa Nacional de Captura y Emisiones de Carbono*
+
+> **Descripción:** Plataforma interactiva desarrollada con el Colectivo Hagamos para visualizar, analizar y comprender el equilibrio de carbono a nivel nacional. Integra datos ambientales, modelos de captura, fuentes de emisión y herramientas de análisis geoespacial para apoyar decisiones informadas y sostenibles. Una brújula digital para cuidar el planeta… pero con esteroides tecnológicos.
+>
+> **Tecnologías:** Python,Google Colab NextJS, GeoJson, Visualización de Datos, IA. 
+
 [https://colectivohagamos.com](https://colectivohagamos.com)
-Mapa Nacional de Captura y Emisiones de Carbono
-Descripción: Plataforma interactiva desarrollada con el Colectivo Hagamos para visualizar, analizar y comprender el equilibrio de carbono a nivel nacional. Integra datos ambientales, modelos de captura, fuentes de emisión y herramientas de análisis geoespacial para apoyar decisiones informadas y sostenibles. Una brújula digital para cuidar el planeta… pero con esteroides tecnológicos.
-Tecnologías: Python, JavaScript, GIS, Visualización de Datos, APIs Ambientales
 
 
 </div>
