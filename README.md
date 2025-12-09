@@ -19,7 +19,7 @@
 
 ## 🚀 Acerca de Mí
 
-<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="300" align="right" alt="Mario David Alvarez Vallejo"/></a>
+<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="250" align="right" alt="Mario David Alvarez Vallejo"/></a>
 
 👨‍💻 Soy ingeniero en automatización industrial con experiencia en desarrollo web. Me apasiona la robótica, especialmente la experimentación con ROS (Robot Operating System). Desde Bogotá ❤️ Colombia, participo activamente en comunidades tech, hackatones y eventos de innovación, ya sea como creador, entusiasta o incansable curioso.
 
@@ -115,6 +115,15 @@
 > **Descripción:** Plataforma robótica autónoma para logística universitaria en interiores. Robot eléctrico omnidireccional 4WD 4WS con capacidades de navegación autónoma, SLAM, visión computacional y planificación de trayectorias usando ROS2 Humble. Diseñado para transporte de materiales en la Universidad Jorge Tadeo Lozano.
 > 
 > **Tecnologías:** ROS2 Humble, OpenCV, TensorFlow, SLAM, Path Planning, Computer Vision
+
+---
+
+### **[🌱 EcoBalance360](https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono)
+[https://colectivohagamos.com](https://colectivohagamos.com)
+Mapa Nacional de Captura y Emisiones de Carbono
+Descripción: Plataforma interactiva desarrollada con el Colectivo Hagamos para visualizar, analizar y comprender el equilibrio de carbono a nivel nacional. Integra datos ambientales, modelos de captura, fuentes de emisión y herramientas de análisis geoespacial para apoyar decisiones informadas y sostenibles. Una brújula digital para cuidar el planeta… pero con esteroides tecnológicos.
+Tecnologías: Python, JavaScript, GIS, Visualización de Datos, APIs Ambientales
+
 
 </div>
 
