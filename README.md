@@ -1,184 +1,172 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+MrDavidAlv;Welcome+to+my+profile!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=48&center=true&vCenter=true&height=60&width=620&lines=Mario+David+Alvarez+Vallejo;Engineer+%26+Developer" alt="Title">
 </div>
 
-<h1 align="center">👋 Mario David Alvarez Vallejo</h1>
-<h3 align="center">💻💖☕ Ingeniero en Automatización Industrial | Full Stack Developer | Robotics Enthusiast</h3>
+<h3 align="center">Industrial Automation Engineer · Full Stack Developer · Robotics</h3>
 
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrdavidalv)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=14&width=500&lines=FullStack+Developer;Autonomous+robot+creator)](https://git.io/typing-svg)
-
-> *"Ingeniero y desarrollador web con un interés particular en la robótica, inteligencia artificial, coches autónomos y el IoT 🤓👾🤖🌱"*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=14&width=500&lines=FullStack+Developer;Autonomous+Robot+Builder)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Acerca de Mí
+## About
 
-<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="250" align="right" alt="Mario David Alvarez Vallejo"/></a>
+<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="240" align="right" alt="Mario David Alvarez Vallejo"/></a>
 
-👨‍💻 Soy ingeniero en automatización industrial con experiencia en desarrollo web. Me apasiona la robótica, especialmente la experimentación con ROS (Robot Operating System). Desde Bogotá ❤️ Colombia, participo activamente en comunidades tech, hackatones y eventos de innovación, ya sea como creador, entusiasta o incansable curioso.
+Industrial Automation Engineer with solid experience in full stack web development. My work sits at the intersection of software and physical systems — from web interfaces to autonomous robots operating in real environments.
 
-### 🎯 Mi Enfoque:
+Based in Bogotá, Colombia. I participate in tech communities, research groups, and hackathons, always looking for problems worth solving.
 
-✨ **Desarrollador de aplicaciones web** - Creando experiencias digitales innovadoras  
-🤖 **Creador de robots móviles** - Dando vida a la automatización inteligente  
-⚡ **Diseñador de circuitos electrónicos** - Del concepto al hardware funcional  
-👥 **Entusiasta del trabajo colaborativo** - Compartiendo conocimiento y divulgación tecnológica  
-🤝 **Miembro activo de Semillero Robótica** - Impulsando la innovación educativa  
-☕ **Amante del café y del código** - El combustible perfecto para la creatividad  
-🧭 **Explorador del ecosistema software** - Desde la interfaz hasta la lógica, del silicio al algoritmo  
-🦉 **Aprendiz incansable en Duolingo** - Cada lenguaje nuevo abre un universo diferente  
+**What I work on:**
+
+- Full stack web applications, from architecture to deployment
+- Autonomous mobile robots using ROS2 — navigation, SLAM, kinematics
+- Electronics and embedded systems design
+- Open source projects and educational technology within [Semillero Robótica Utadeo](https://github.com/TadeoRoboticsGroup)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend
 <p>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://react.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://nodejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="45" height="45"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="42" height="42"/></a>
 </p>
 
-### 🔧 Backend & Database Systems
+### Backend & Databases
 <p>
-<a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://golang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="45" height="45"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://golang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="42" height="42"/></a>
 </p>
 
-### 🚀 DevOps & Development Tools
+### DevOps & Tools
 <p>
-<a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="42" height="42"/></a>
 </p>
 
-### 🤖 Robotics, AI & Embedded Systems
+### Robotics, AI & Embedded Systems
 <p>
-<a href="http://www.ros.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="90" height="45"/></a>&nbsp;
-<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://opencv.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="45" height="45"/></a>&nbsp;
-<a href="https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="45" height="45"/></a>
+<a href="http://www.ros.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="88" height="42"/></a>&nbsp;
+<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://opencv.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="42" height="42"/></a>&nbsp;
+<a href="https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="42" height="42"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🏆 Proyectos Destacados
+## Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/TadeoRoboticsGroup/AxiomaCore-328">AXIOMA Core 328</a></h3>
+      <p><em>Custom Microcontroller for Educational Robotics</em></p>
+      <p>Custom microcontroller based on the ATmega328, designed for educational robotics and automation. Covers hardware design through firmware development.</p>
+      <p><code>Arduino</code> <code>C++</code> <code>PCB Design</code> <code>Embedded Systems</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/MrDavidAlv/Axioma_robot">Axioma Robot + ROS2</a></h3>
+      <p><em>Autonomous Mobile Robotics Platform</em></p>
+      <p>ROS2 Foxy-based platform for autonomous mobile robotics, integrating navigation, sensor fusion, and motion control in a single deployable stack.</p>
+      <p><code>ROS2</code> <code>Python</code> <code>C++</code> <code>SLAM</code> <code>Navigation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/MrDavidAlv/Robot4WD4WS">Tadeo eCar — 4WD4WS</a></h3>
+      <p><em>Autonomous University Logistics Robot</em></p>
+      <p>Omnidirectional 4WD4WS electric robot for indoor logistics at Universidad Jorge Tadeo Lozano. Full Nav2 navigation, real-time SLAM, three steering modes (Ackermann, Omnidirectional, Crab) and LiDAR perception.</p>
+      <p><code>ROS2 Humble</code> <code>Gazebo Fortress</code> <code>Nav2</code> <code>SLAM Toolbox</code> <code>OpenCV</code> <code>ros2_control</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono">EcoBalance360</a></h3>
+      <p><em>National Carbon Capture and Emissions Map</em></p>
+      <p>Interactive geospatial platform to map and analyze carbon balance across Colombia. Combines environmental datasets, geospatial visualization, and AI-assisted analysis. Built with <a href="https://colectivohagamos.com">Colectivo Hagamos</a>.</p>
+      <p><code>Python</code> <code>Next.js</code> <code>GeoJSON</code> <code>Data Visualization</code> <code>Google Colab</code></p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🎵 Coding Soundtrack
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  | Track | Artist | |
+  |-------|--------|--|
+  | Fade | Alan Walker | [▶ Listen](https://www.youtube.com/watch?v=D9syciL3Xsg&list=RDD9syciL3Xsg&start_radio=1) |
+  | Sky High | Elektronomia | [▶ Listen](https://www.youtube.com/watch?v=TW9d8vYrVFQ&list=RDTW9d8vYrVFQ&start_radio=1) |
+  | My Heart | Different Heaven & EH!DE | [▶ Listen](https://www.youtube.com/watch?v=jK2aIUmmdP4&list=RDjK2aIUmmdP4&start_radio=1) |
+
+  [Open my web music player →](https://codepen.io/MrDavidAlv/full/WbvPQOP)
+</div>
+
+---
+
+## Contact
 
 <div align="center">
 
-### **[⚙️ AXIOMA Core 328](https://github.com/TadeoRoboticsGroup/AxiomaCore-328)** 
-*Microcontrolador Customizado para Robótica Educativa*
-
-> **Descripción:** Microcontrolador customizado basado en ATmega328, potenciado para robótica educativa y automatización.
-> 
-> **Tecnologías:** Arduino, C++, PCB Design, Embedded Systems
-
----
-
-### **[🚗 Axioma_robot + ROS2](https://github.com/MrDavidAlv/Axioma_robot)** 
-*Plataforma de Robótica Móvil Autónoma*
-
-> **Descripción:** Proyecto con ROS2 Foxy para la creación de una plataforma de robótica móvil autónoma.
-> 
-> **Tecnologías:** ROS2, Python, C++, SLAM, Navigation
-
----
-
-### **[🕹️ tadeo-eCar-ws](https://github.com/MrDavidAlv/Robot4WD4WS)** 
-*Robot Logístico Universitario Autónomo*
-
-> **Descripción:** Plataforma robótica autónoma para logística universitaria en interiores. Robot eléctrico omnidireccional 4WD 4WS con capacidades de navegación autónoma, SLAM, visión computacional y planificación de trayectorias usando ROS2 Humble. Diseñado para transporte de materiales en la Universidad Jorge Tadeo Lozano.
-> 
-> **Tecnologías:** ROS2 Humble, OpenCV, TensorFlow, SLAM, Path Planning, Computer Vision
-
----
-
-### **[🌱 EcoBalance360](https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono)**
-*Mapa Nacional de Captura y Emisiones de Carbono*
-
-> **Descripción:** Plataforma interactiva desarrollada con el Colectivo Hagamos para visualizar, analizar y comprender el equilibrio de carbono a nivel nacional. Integra datos ambientales, modelos de captura, fuentes de emisión y herramientas de análisis geoespacial para apoyar decisiones informadas y sostenibles. Una brújula digital para cuidar el planeta.
->
-> **Tecnologías:** Python,Google Colab NextJS, GeoJson, Visualización de Datos, IA. 
-
-[https://colectivohagamos.com](https://colectivohagamos.com)
-
+<a href="mailto:ing.marioalvarezvallejo@gmail.com">
+  <img src="https://img.shields.io/badge/-ing.marioalvarezvallejo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/mrdavidalv">
+  <img src="https://img.shields.io/badge/-mrdavidalv-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv">
+  <img src="https://img.shields.io/badge/-GitHub_Stats-22314E?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🎵 Soundtrack del Código
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
   
-  ### 💿 Actualmente en Reproducción
-  
-  🎧 **Mi playlist de programación favorita:**
-  
-  | 🎵 Track | 🎤 Artist | 🔗 Link |
-  |----------|-----------|---------|
-  | **Fade** | Alan Walker | **[🎶 Escuchar](https://www.youtube.com/watch?v=D9syciL3Xsg&list=RDD9syciL3Xsg&start_radio=1)** |
-  | **Sky High** | Elektronomia | **[🎶 Escuchar](https://www.youtube.com/watch?v=TW9d8vYrVFQ&list=RDTW9d8vYrVFQ&start_radio=1)** |
-  | **My Heart** | Different Heaven & EH!DE | **[🎶 Escuchar](https://www.youtube.com/watch?v=jK2aIUmmdP4&list=RDjK2aIUmmdP4&start_radio=1)** |
-  
-  🎼 **¿Quieres escuchar mi música mientras programas?**  
-  **👉 [Prueba mi Reproductor Web Personalizado](https://codepen.io/MrDavidAlv/full/WbvPQOP) 👈**
-  
+🧡 ¡Gracias por visitar mi perfil! 😍
+
 </div>
-
----
-
-## 📫 Conecta Conmigo
-
+  
 <div align="center">
   
-  ### 🌟 ¡Construyamos algo increíble juntos! 🌟
+  Si te gustó lo que viste, no dudes en darle una ⭐ a mis repositorios
   
-  **💌 Email:** [ing.marioalvarezvallejo@gmail.com](mailto:ing.marioalvarezvallejo@gmail.com)
+  <br/>
+  <sub>© 2025 Mario David Alvarez Vallejo · Bogotá, Colombia</sub>
   
-  **🔗 GitHub Stats:**  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv" target="_blank">
-    <img align="center" alt="MrDavidAlv | GitHub Stats" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a>
-  
-  ---
-  
-  ### 🧡 ¡Gracias por visitar mi perfil! 😍
-  
-  *Si te gustó lo que viste, no dudes en darle una ⭐ a mis repositorios*
-  
-  **© 2025 Mario David Alvarez Vallejo | Hecho con 💖 desde Bogotá, Colombia**
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=20&center=true&vCenter=true&height=50&width=600&lines=Keep+coding+and+stay+curious!+🚀;Thanks+for+stopping+by!+👋" alt="Footer">
 </div>
