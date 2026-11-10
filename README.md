@@ -180,8 +180,6 @@ Outside of work, I build robots. Mobile platforms and robotic arms with ROS 2, t
 
 <div align="center">
   <a href="https://mrdavidalv.github.io/player/"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Music"/></a>
-  <br/><br/>
-  <a href="https://mrdavidalv.github.io/player/"><img src="assets/profile/player.png" width="260" alt="NCS music player (Webamp)"/></a>
   <br/>
   <sub>What I listen to while coding · <a href="https://mrdavidalv.github.io/player/"><b>▶ Open the player</b></a></sub>
 </div>
