@@ -14,7 +14,7 @@
 
 ## About
 
-<a href="https://app.daily.dev/mrdavidalv"><img src="ingeniero.png?r=duu" width="220" align="right" alt="Mario David Alvarez Vallejo"/></a>
+<a href="https://app.daily.dev/mrdavidalv"><img src="assets/profile/engineer.png" width="220" align="right" alt="Mario David Alvarez Vallejo"/></a>
 
 Industrial Automation Engineer and Full Stack Developer from Bogotá, Colombia. For five years I've been building enterprise software: microservices, APIs and web applications designed to scale, stay available and be easy to maintain.
 
@@ -116,6 +116,7 @@ Outside of work, I build robots. Mobile platforms and robotic arms with ROS 2, t
   </tr>
 </table>
 </div>
+
 ---
 
 ## Featured Projects
@@ -173,16 +174,16 @@ Outside of work, I build robots. Mobile platforms and robotic arms with ROS 2, t
 </table>
 </div>
 
-
 ---
 
 ## 🎵 Coding Soundtrack
 
 <div align="center">
-  <a href="https://codepen.io/MrDavidAlv/full/WbvPQOP">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</a>
-  
+  <a href="https://mrdavidalv.github.io/player/"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Music"/></a>
+  <br/><br/>
+  <a href="https://mrdavidalv.github.io/player/"><img src="assets/profile/player.png" width="260" alt="NCS music player (Webamp)"/></a>
+  <br/>
+  <sub>What I listen to while coding · <a href="https://mrdavidalv.github.io/player/"><b>▶ Open the player</b></a></sub>
 </div>
 
 ---
@@ -195,7 +196,7 @@ Outside of work, I build robots. Mobile platforms and robotic arms with ROS 2, t
 &nbsp;
 <a href="mailto:ing.marioalvarezvallejo@gmail.com"><img src="https://img.shields.io/badge/-ing.marioalvarezvallejo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="https://profile-summary-for-github.herokuapp.com/user/mrdavidalv"><img src="https://img.shields.io/badge/-GitHub_Stats-22314E?style=flat-square&logo=github&logoColor=white" alt="GitHub Stats"/></a>
+<a href="https://profile-summary-for-github.com/user/mrdavidalv"><img src="https://img.shields.io/badge/-GitHub_Stats-22314E?style=flat-square&logo=github&logoColor=white" alt="GitHub Stats"/></a>
 
 </div>
 
